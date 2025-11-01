@@ -74,7 +74,7 @@ Press the below button to Fast deploy on Heroku
 
 
 ```py
-git clone https://github.com/adarsh-goel/Filestreambot-pro
+git clone https://github.com/royMovies/Filestreambot-pro
 cd Filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
